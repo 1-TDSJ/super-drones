@@ -1,0 +1,79 @@
+body {
+  /*background-image: url(../img/fundo.jpg);*/
+  background-color: #000000;
+  font-family: "Tahoma", serif;
+  font-size: 16px;
+  height: 22px;
+}
+
+#paginaCompleta {
+  width: 1200px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#titulo {
+  font-size: 50px;
+  color: white;
+}
+
+.caixaBranca {
+  background-color: white;
+  text-align: justify;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.subtitulo {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+.rodapeFonte {
+  text-align: right;
+}
+
+.rodapeTwitter {
+  text-align: right;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+a {
+  color: #2C88A7;
+  font-weight: 900;
+}
+
+a:hover {
+  color: #DC143C;
+}
+
+img {
+  width: 120px;
+  height: 150px;
+  border: 1px;
+  border-style: solid;
+  border-color: #7E9F19;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 2px;
+  float: left;
+}
+
+.ultimo {
+  font-size: 12px;
+  color: #FFFFFF;
+  text-align: center;
+}
