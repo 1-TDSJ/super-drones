@@ -3,47 +3,89 @@ body{
   font-family: Calibri, Tahoma, Arial;
   font-size: 16px;
   line-height: 22px;
-
 }
+
 h1{
   color: #FFFFFF;
   font-size: 50px;
+  margin-left: 135px;
 }
 
 h2{
-  border-bottom-width: 0px;
-  margin: 0 0 0;
-  border-bottom: dashed #7E9F19;
+  border-bottom-width: 1px;
+  margin: 10px 10px 10px;
+  border-bottom: dashed;
+  border-bottom-color: #7E9F19;
   text-align: left;
 }
+
 #conteiner{
-  background-color: #CCCCCC;
+  background-color: #000000;
   margin-top: 0px;
   margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
   height: 600px;
   width: 1200px;
-
+  text-align: center;
 }
 
 .drone {
   background-color: #FFFFFF;
-  text-align: center;
+  text-align: left;
   border-width: 1px;
+  border-style: solid;
+  border-color: #CCCCCC;
   margin-bottom: 20px;
-
+  padding-bottom: 20px;
 }
 
 .final{
-  border-bottom: 1px;
+  margin: 10px 10px 10px;
+  border-bottom-width: 1px;
   border-bottom: dashed #7E9F19;
 }
+
+.drone a{
+  text-decoration: none;
+  padding: 0.5%;
+}
+
 .drone a:HOVER{
   color: #DC143C;
+  font-weight: 900;
 }
+
+.drone a:VISITED{
+  color:#2C88A7;
+  font-weight: 900;
+}
+
+.drone a:LINK{
+    color:#2C88A7;
+}
+
 img{
   height: 150px;
   width: 1200;
+  border: 1px;
+  border-style: solid;
+  border-color: #7E9F19;
+  margin-right: 10px;
   margin-top: 10px;
   margin-bottom: 0px;
+  margin-left: 0px;
+  padding: 2px;
   float: left;
+}
+
+.links-final{
+  text-align: right;
+}
+
+.down{
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: 12px;
+  text-align: center;
 }
