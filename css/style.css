@@ -50,3 +50,22 @@ body{
   border-color: #7E9F19;
   border-width: 0px 0px 1px 0px;
 }
+
+.drone a:HOVER{
+  color: #DC143C;
+}
+
+.drone img{
+  width: 120px;
+  height: 150px;
+  border: 1px solid #7E9F19;
+  margin: 10px 10px 0px 0px;
+  padding: 2px;
+  float: left;
+}
+
+#footer-drone{
+  font-size: 12px;
+  color: #ffffff;
+  text-align: center;
+}
