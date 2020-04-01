@@ -1,0 +1,78 @@
+.b1 {
+  font-family: "Calibri","Tahoma","Arial";
+  font-size: 16px;
+  line-height: 22px;
+  background-image: url("../img/fundo.jpg");
+}
+
+#header1 {
+  color: #FFFFFF;
+  font-size: 50px;
+}
+
+#main {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#box {
+  background-color: #FFFFFF;
+  text-align: justify;
+  border-style: solid;
+  border: 1px;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+#header2 {
+  margin: 0px;
+  border: 0px;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+.links {
+  color: #2C88A7;
+  font-weight: 900;
+  text-decoration: none;
+  float: right;
+}
+
+.links2 {
+  color: #2C88A7;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.p {
+  margin: 0;
+  border: 0px;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+  text-align: right;
+}
+
+#imagens {
+  width: 120px;
+  height: 150px;
+  border: 1px;
+  border-style: solid;
+  border-color: #7E9F19;
+  margin: 0px;
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 2px;
+  float: left;
+}
+
+#ultimo {
+  font-size: 12px;
+  color: #FFFFFF;
+  text-align: center;
+}
