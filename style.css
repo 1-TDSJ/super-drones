@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+  /*background-color: #00000;*/
+  background-image: url(../img/fundo.jpg);
+  background-repeat: no-repeat;
+  font-family:'calibri','Tahoma','Arial';
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.container h1{
+  color: #ffffff;
+  font-size: 4em
+}
+
+.container{
+  width: 1200px;
+  margin: 0px auto 0px auto;
+
+}
+
+.drone{
+  background-color: #ffffff;
+  text-align: justify;
+  border: 1px solid #cccccc;
+  margin: 0px 0px 20px 0px;
+  padding: 20px;
+
+}
