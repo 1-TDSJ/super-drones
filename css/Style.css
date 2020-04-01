@@ -76,3 +76,11 @@
   color: #FFFFFF;
   text-align: center;
 }
+
+#box a:hover{
+  color: #DC143C;
+}
+
+.p a:hover{
+color: #DC143C;
+}
