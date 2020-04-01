@@ -1,0 +1,61 @@
+@@charset "UTF-8";
+body {
+  /*background-color:#000000;*/
+  background-image: url(../img/fundo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Calibri','Tahoma','Arial';
+  line-height: 22px;
+  font-size: 16px;
+}
+.container h1{
+  color: #000000;
+  font-size: 4em;
+}
+.container{
+width: 1200px;
+/*margin: 0px auto 0px auto 0px;*/
+margin-top: 0px;
+margin-bottom: 0px;
+margin-left: auto;
+margin-right: auto;
+}
+.drones{
+width: 1200px;
+margin: 0px  0px 20px 0px;
+padding: 20px;
+border: 1px solid #cccccc;
+text-align: justify;
+}
+.drones h2{
+margin: 0px;
+border-style: dashed;
+border-color:#7E9F19;
+border-width: 0px 0px 1px 0px;
+}
+.drones a{
+  text-decoration: none;
+  color: #2C88A7;
+  font-weight: 900;
+}
+.p2{
+  text-align: right;
+  border-style: dashed;
+  border-color: #7E9F19;
+  border-width: 0px 0px 1px 0px;
+}
+.drones a:HOVER{
+  color: #DC143C
+}
+.drones img{
+  width: 120px;
+  height: 150px;
+  border: 1px solid #7E9F19;
+  margin: 10px 10px 0px 0px;
+  float:left;
+}
+.fim{
+  font-size: 12px;
+  color: #ffffff;
+  text-align: center;
+}
