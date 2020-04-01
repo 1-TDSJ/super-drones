@@ -18,18 +18,18 @@ h1{
 .drone{
   background: #FFFFFF;
   text-align: justify;
-  border-width: 1px;
-  border-style: solid;
-  border-color: #CCCCCC;
+  border:1px solid #CCCCCC;
   margin-bottom:20px;
   padding: 20px;
 }
 
+
 .drone h2{
   margin:0px;
-  border-bottom: 1px;
   border-style: dashed;
+  border-width: 0px 0px 1px 0px;
   border-color: #7E9F19;
+
 }
 
 #link{
@@ -37,12 +37,6 @@ h1{
   font-weight: 900;
   text-decoration: none;
   text-align: right;
-}
-
-.drobe p{
-  border-bottom: 1px;
-  border-style: dashed;
-  border-color: #7E9F19;
 }
 
 #link:hover{
