@@ -1,0 +1,21 @@
+
+
+/" Isso é um comentário "/
+  #container{
+  background-color:#B836B8;
+  margin-left:20%;
+  margin-right:20%;
+  height:600px;
+  font-family:"Tahoma","Arial","Calibri",sans-serif;
+}
+
+
+a{
+color:#F9F9FA;
+}
+
+ul{
+color:#F9F9FA;
+
+
+}

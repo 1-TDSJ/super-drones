@@ -1,0 +1,83 @@
+body {
+    background-image: url("../img/fundo.jpg");
+    line-height: 22px;
+    font-size: 12px;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    font-family: 'Calibri', 'Tahoma', 'Arial';
+    l
+}
+  
+  h1 {
+    color: white;
+    font-family: Tahoma;
+    font-size: 50px;  
+}
+  
+div{
+    width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+#dronescor {
+    background-color: white;
+    text-align: center;
+    border-width: 15px;
+    border-color: #CCCCCC;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-style: solid;
+
+
+
+
+}
+
+h2 {
+margin-top: 0px;
+margin-left: 0px;
+margin-bottom: 0px;
+margin-right: 0px;
+border-bottom: 1px;
+border-style: dashed;
+border-color: #7E9F19;
+}
+
+
+
+
+p { 
+    border-bottom: 1px;
+    border-color: #7E9F19;
+    border-style: dashed;
+}
+    
+a{
+    color: #2C88A7;
+    font-weight: 900;
+    
+
+} 
+
+img {
+    width: 120px;
+    height: 150px;
+    border: 1px;
+    border-style: solid;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+
+
+}
+
+h3 { text-align: center;
+    font-size: 12px;
+    color: white;
+
+
+}
