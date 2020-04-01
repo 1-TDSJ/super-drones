@@ -27,3 +27,26 @@ body{
   margin: 0px 0px 20px 0px;
   padding: 20px;
 }
+
+.drone h2{
+  margin: 0px;
+  border-style: dashed;
+  border-color: #7E9F19;
+  border-width: 0px 0px 1px 0px;
+}
+
+.drone a{
+  text-decoration: none;
+  color: #2C88A7;
+  font-weight: 900;
+}
+
+.p1{
+  text-align: right;
+}
+.p2{
+  text-align: right;
+  border-style: dashed;
+  border-color: #7E9F19;
+  border-width: 0px 0px 1px 0px;
+}
