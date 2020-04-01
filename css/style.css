@@ -10,15 +10,19 @@ body{
   line-height: 22px;
 }
 
+.container{
+  width: 1200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .container h1{
   color: #ffffff;
   font-size:4em;
 }
 
-.container{
-  width: 1200px;
-  margin: 0px auto 0px auto 0px;
-}
 
 .drone{
   background-color: #ffffff;
