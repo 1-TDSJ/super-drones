@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+body {
+    background-image: url("../img/fundocontainer.jpg");
+    /*background-color: #D72483;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Calibri', 'Tahoma', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+
+
+.container {
+    width: 1200px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+
+.containerh1 {
+    color: #89023E;
+    font-size: 1.7em;
+}
+
+.drone {
+    background-color: #66666E;
+    text-align: justify;
+    border: 1px solid #5C415D;
+    /*margin-bottom: 30px;*/
+    padding: 20px;
+}
+
+h2 {
+    margin: 0 0 0 0;
+    border-bottom: 1px dashed #66666E;
+}
+
+a {
+    color: #89023E;
+    font-weight: 900;
+    text-decoration: none;
+    float: right;
+}
+
+a:hover {
+    color: #CC7178;
+}
+
+img {
+    width: 120px;
+    height: 150px;
+    border: 1px solid #ADA8B6;
+    margin: 10PX 10PX 0px 0px;
+    padding: 2px;
+    float: left;
+}
+
+#dronethankyounext {
+    font-size: 12px;
+    text-align: center;
+    color: #5C415D;
+}
+
+.amazon{
+    margin-top: 0px;
+    float: right;
+    display: block;
+    position: relative;
+}
+
+.para1 {
+    float: right;
+    display: block;
+    position: relative;
+}
+
+.amazon{
+    text-align: right;
+  }
+  .para1{
+    text-align: right;
+    border-style: dashed;
+    border-color: #7E9F19;
+    border-width: 0px 0px 1px 0px;
+  }
